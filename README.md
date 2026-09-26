@@ -2,7 +2,7 @@
 
 This public repository contains only signed MSIX packages, the public trust certificate, checksums, and update metadata. It contains no source code, OAuth credentials, ledger data, or private signing keys.
 
-Current version: 0.4.0.0
+Current version: 0.5.0.0
 
 Install the public certificate into **Local Computer → Trusted People** with administrator approval, then download and open `MassageStudioLedger.appinstaller`. Do not place it in Trusted Root Certification Authorities.
 
