@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "version": "0.3.0.1",
+  "packageName": "SereneMassage.MassageStudioLedger",
+  "publisher": "CN=Serene Massage LLC",
+  "certificateThumbprint": "02732DFCBA5458C83C052AC04F30F1C8CCE92370",
+  "msixSha256": "BBD919811FE542775DA3F8D1788D669572D4D40AB4ECEF8426806D72B6208809",
+  "appInstallerSha256": "9D62C398D22F5E29DEB80D72CFAAB4412E75D9D5E2B650576DF256EFD8428450",
+  "appInstallerUrl": "https://raw.githubusercontent.com/zwang3-tech/massage-studio-ledger-releases/main/MassageStudioLedger.appinstaller",
+  "packageUrl": "https://raw.githubusercontent.com/zwang3-tech/massage-studio-ledger-releases/main/MassageStudioLedger.msix"
+}
