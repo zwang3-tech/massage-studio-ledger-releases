@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-  xmlns="http://schemas.microsoft.com/appx/appinstaller/2021"
-  Version="0.3.0.1"
+  xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+  Version="0.3.0.2"
   Uri="https://raw.githubusercontent.com/zwang3-tech/massage-studio-ledger-releases/main/MassageStudioLedger.appinstaller">
   <MainPackage
     Name="SereneMassage.MassageStudioLedger"
     Publisher="CN=Serene Massage LLC"
-    Version="0.3.0.1"
+    Version="0.3.0.2"
     ProcessorArchitecture="x64"
     Uri="https://raw.githubusercontent.com/zwang3-tech/massage-studio-ledger-releases/main/MassageStudioLedger.msix" />
   <UpdateSettings>
     <OnLaunch
-      HoursBetweenUpdateChecks="0"
-      ShowPrompt="true"
-      UpdateBlocksActivation="true" />
+      HoursBetweenUpdateChecks="0" />
     <AutomaticBackgroundTask />
   </UpdateSettings>
 </AppInstaller>
