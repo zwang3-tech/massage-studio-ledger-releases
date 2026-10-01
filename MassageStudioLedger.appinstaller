@@ -2,7 +2,7 @@
 <AppInstaller
   xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
   Version="0.10.0.0"
-  Uri="https://zwang3-tech.github.io/massage-studio-ledger-releases/MassageStudioLedger.xml">
+  Uri="https://zwang3-tech.github.io/massage-studio-ledger-releases/MassageStudioLedger.appinstaller">
   <MainPackage
     Name="SereneMassage.MassageStudioLedger"
     Publisher="CN=Serene Massage LLC"
