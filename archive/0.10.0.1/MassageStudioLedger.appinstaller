@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+  xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+  Version="0.10.0.1"
+  Uri="https://zwang3-tech.github.io/massage-studio-ledger-releases/MassageStudioLedger.appinstaller">
+  <MainPackage
+    Name="SereneMassage.MassageStudioLedger"
+    Publisher="CN=Serene Massage LLC"
+    Version="0.10.0.1"
+    ProcessorArchitecture="x64"
+    Uri="https://zwang3-tech.github.io/massage-studio-ledger-releases/MassageStudioLedger.msix" />
+  <UpdateSettings>
+    <OnLaunch
+      HoursBetweenUpdateChecks="0" />
+    <AutomaticBackgroundTask />
+  </UpdateSettings>
+</AppInstaller>
