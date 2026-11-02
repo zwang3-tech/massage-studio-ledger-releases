@@ -2,7 +2,7 @@
 
 This public repository contains only signed MSIX packages, the public trust certificate, checksums, and update metadata. It contains no source code, OAuth credentials, ledger data, or private signing keys.
 
-Current version: 0.11.0.4
+Current version: 0.11.0.5
 
 ## Install on another Windows PC
 
